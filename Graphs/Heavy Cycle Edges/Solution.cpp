@@ -16,7 +16,7 @@ typedef vector<int> vi;
 typedef pair<int,int> pii;
 typedef vector<pii> vii;
 typedef vector<char>vch;
-typedef vector<bool>vb;					(MST) Kruskal's
+typedef vector<bool>vb;					//(MST) Kruskal's
 typedef map<int,vi>alist;
 typedef map<string,int>msi;
 typedef map<string,string>mss;

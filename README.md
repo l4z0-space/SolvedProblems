@@ -6,4 +6,4 @@
 
 *   [Nice Intro DP book](https://www.byte-by-byte.com/dpbook/)
 
-*   [Quick Notes](https://github.com/l4z0-space/SolvedProblems/blob/master/CPnotes.pdf)
+*   [Quick CP Notes](https://github.com/l4z0-space/SolvedProblems/blob/master/UsefulNotes/CPnotes.pdf)
